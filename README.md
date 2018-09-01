@@ -1,2 +1,1 @@
-# personal-website
-Repository to my personal website, made for study proposes.
+Em breve maiores informações.

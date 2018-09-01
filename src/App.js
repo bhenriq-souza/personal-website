@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div> 
         <Header />    
-        Hello, world! 
+        Hello, World! 
       </div>
     );
   }

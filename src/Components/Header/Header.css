@@ -1,6 +1,6 @@
 .header {
   min-height: 100vh;
-  background: url('../../assets/images/hello-world.png')center/cover fixed no-repeat;
+  background: url('../../assets/images/header-bcg.jpg')center/cover fixed no-repeat;
   display: flex;
   flex-direction: column;
 }

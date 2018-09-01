@@ -1,0 +1,8 @@
+:root {
+  --light: #fff;
+}
+
+.navbar {  
+  background: #000000;
+  color: var(--light);
+}
